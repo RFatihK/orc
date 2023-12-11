@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177705021272",
+    "project_id": "imagetotext-5d01b",
+    "storage_bucket": "imagetotext-5d01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177705021272:android:4baa86e33527a8141a7f2d",
+        "android_client_info": {
+          "package_name": "com.example.orc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB49a458Zkk61LRgscqQzdazK9TI6fAr2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
